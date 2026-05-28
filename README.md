@@ -1,9 +1,15 @@
 # Résumé d'agenda hebdomadaire automatisé
 
+
+[🇫🇷 Version Française](#-version-française) | [🇬🇧 English Version](#-english-version)
+
 ![License MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Google%20Apps%20Script-green)
 ![Runtime](https://img.shields.io/badge/Google%20Apps%20Script-V8-green)
 ![Author](https://img.shields.io/badge/Auteur-Fabrice%20Faucheux-orange)
+
+## 🇫🇷 Version Française
+
 
 ## Description
 Ce projet Google Apps Script récupère automatiquement les événements de votre calendrier Google principal pour les 7 prochains jours et vous envoie un résumé formaté et lisible par e-mail. Idéal pour préparer sa semaine le lundi matin.
@@ -25,3 +31,12 @@ Ce projet Google Apps Script récupère automatiquement les événements de votr
 ## Prérequis
 * Un compte Google Workspace ou Gmail actif.
 * L'accès aux services : Gmail et Calendar.
+
+
+---
+## 🇬🇧 English Version
+
+> English translation coming soon.
+
+---
+<p align="center"><a href="https://faucheux.bzh" target="_blank" style="color: inherit; text-decoration: none;">&lt;&gt; par Fabrice Faucheux</a></p>
